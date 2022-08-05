@@ -15,5 +15,5 @@
 ### My Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=blue) ![Chrome](https://img.shields.io/badge/-Chrome-000?&logo=GoogleChrome&logoColor=red) ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman&logoColor=orange) 
 
-![Github Stats]([https://github-readme-stats.vercel.app/api/top-langs?username=banakhusnan&layout=compact&theme=onedark](https://github-readme-stats.vercel.app/api?username=banakhusnan&layout=compact&theme=onedark))
+![Github Stats](https://github-readme-stats.vercel.app/api?username=banakhusnan&layout=compact&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=banakhusnan&layout=compact&theme=onedark)
