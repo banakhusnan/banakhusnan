@@ -6,7 +6,7 @@
 <a href="https://twitter.com/banakhoesnan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<iframe align="right" src="https://giphy.com/embed/u2pmTWUi0MXjyrMaVj" width="280" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ### My Skills
 
