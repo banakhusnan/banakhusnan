@@ -5,6 +5,7 @@
 <a href="https://instagram.com/banakhoesnan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://twitter.com/banakhoesnan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+<img src="https://www.svgrepo.com/show/202977/portfolio-bag.svg" width="50">
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
