@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-<a href="https://banakhusnan.netlify.app" style="background-color: #ededed; text-decoration: none;"><img src="https://www.svgrepo.com/show/202977/portfolio-bag.svg" width="25px" /> Portfolio</a>
+    <a href="https://banakhusnan.netlify.app"   style="background-color: #081234; text-decoration: none; padding: 3px 10px; display: flex; align-items: center; width: 15%; justify-content: center; border-radius: 2px; font-weight: bold; color: white">
+        <img src="https://www.svgrepo.com/show/202977/portfolio-bag.svg" style="margin-right: 5px" width="20px" /> Portfolio
+    </a>
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
