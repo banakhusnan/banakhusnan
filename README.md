@@ -6,7 +6,9 @@
 <a href="https://twitter.com/banakhoesnan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<a href="https://banakhusnan.netlify.app" style="background-color: #f0f8ff;"><img src="https://www.svgrepo.com/show/202977/portfolio-bag.svg" width="25px" /> Portfolio</a>
+<p align="center">
+<a href="https://banakhusnan.netlify.app" style="background-color: #ededed; text-decoration: none;"><img src="https://www.svgrepo.com/show/202977/portfolio-bag.svg" width="25px" /> Portfolio</a>
+</p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
