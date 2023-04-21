@@ -6,7 +6,6 @@
 <a href="https://twitter.com/banakhoesnan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 [<div style="background-color: #f0f8ff; padding: 10px; border: 1px solid #000; border-radius: 5px;">](https://banakhusnan.netlify.app)
-    <img src="https://www.example.com/image.png" alt="Contoh Gambar" style="max-width: 100%;">
     <img src="https://www.svgrepo.com/show/202977/portfolio-bag.svg" alt="Icon Portfolio" width="25px">
     <p style="color: #ff6347;">Portfolio</p>
 </div>
